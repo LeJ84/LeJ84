@@ -7,7 +7,7 @@ Pour le back du Node.js avec Express associé à une base Postgres SQL
 
 - 🎯 J'aimerai à court terme apprendre TypeScript et Vue.js, approffondir la TDD et m'interesser au SSR pour un meilleur SEO 
 
--  Je suis à la recherche d'un CDI en tant que développeur JS Front de préférence voir Back ou Fullstack
+- 👀 Je suis à la recherche d'un CDI en tant que développeur JS Front de préférence voir Back ou Fullstack sur Marseille et sa périphérie
 
 N'hésitez pas à me contacter à cette adresse 
 
