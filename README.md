@@ -1,9 +1,9 @@
 ### Jérôme DUCOM je vais bientôt terminer ma formation Fullstack JavaScript Developer 👋
 
 - 🔭 Je travaille actuellement sur mon projet de fin de formation
-C'est une application web permettant de publier et partager des carnets voyages.
-Les technologies front utilisées sont React, Redux, SCSS, leaftlet associé à positionStack pour la géolocalisation.
-Pour le back du Node.js avec Express associé à une base Postgres SQL
+C'est une application web permettant de publier et partager des carnets voyages.  
+Les technologies front utilisées sont React, Redux, SCSS, leaftlet associé à positionStack pour la géolocalisation.  
+Pour le back du Node.js avec Express associé à une base Postgres SQL.  
 
 - 🎯 J'aimerai à court terme apprendre TypeScript et Vue.js, approffondir la TDD et m'interesser au SSR pour un meilleur SEO 
 
