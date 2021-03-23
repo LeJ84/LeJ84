@@ -13,7 +13,7 @@ N'hésitez pas à me contacter à cette adresse
 
 📫 ducom.jerome@gmail.com
 
-ou sur LinkedIN
+ou sur LinkedIn
 
 <!--
 **LeJ84/LeJ84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
