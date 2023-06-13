@@ -1,6 +1,6 @@
 ### Jérôme DUCOM - Fullstack JavaScript Developer 👋
 
-- Fullstack developper at Unistellar with React in front, using amplify AWS library in an AWS ecosytem.
+- Fullstack developper with React in front, using amplify AWS library in an AWS ecosytem.
 - 🎯 J'aimerai à court terme apprendre TypeScript et Vue.js, approffondir la TDD et m'interesser au SSR pour un meilleur SEO 
 
 N'hésitez pas à me contacter à cette adresse 
