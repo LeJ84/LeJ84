@@ -1,13 +1,20 @@
 ### Jérôme DUCOM - Fullstack JavaScript Developer 👋
 
-- Fullstack developper with React in front, using amplify AWS library in an AWS ecosytem.
-- 🎯 J'aimerai à court terme apprendre TypeScript et Vue.js, approffondir la TDD et m'interesser au SSR pour un meilleur SEO 
+- Fullstack developper with React and Node
+- Some cloud experiences in AWS ecosystem inside Amplify projects
+  - Cognito authentification
+  - DynamoDB and S3 storage
+  - Api Gateway and WAF management
+  - Monitoring with Cloudwatch
+  - Lambdas usage
+- Firebase CloudMessaging Api usage
+- 🎯 My short time goals are to improve my TypeScript knowledge, and to learn TDD. 
 
-N'hésitez pas à me contacter à cette adresse 
+You can contact me :
 
 📫 ducom.jerome@gmail.com
 
-ou sur LinkedIn
+or on LinkedIn
 
 <!--
 **LeJ84/LeJ84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
